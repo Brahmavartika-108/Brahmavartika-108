@@ -94,11 +94,7 @@ I'm also exploring Quantum-AI frameworks for healthcare, national defense, and s
   </a>
 </p>
 
-  <picture>
-    <source media="(max-width: 768px)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Utsa-Das&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false">
-    <source media="(min-width: 769px)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Utsa-Das&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Utsa-Das&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" alt="Most Used Languages" width="100%">
-  </picture>
+ 
 </div>
 
 ## 🏆 Achievements🎯
