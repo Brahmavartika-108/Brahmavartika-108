@@ -1,7 +1,7 @@
 <h1 align="center">💫 About Me</h1>
 
 <h2 align="center">🚀 Quantum | AI | Federated Learning | Research Explorer</h2>
-<h2 align="center">🎓 B.Tech CSE | Kalyani Government Engineering College (2027)</h2>
+<h2 align="center">🎓 B.Tech CSE | Kalyani Government Engineering College (2027)</h2> 
 <h2 align="center">🔬 Researcher | Visionary Technologist | Creative Innovator</h2>
 
 <p><strong>Welcome to my world of innovation</strong> where <strong>Quantum Computing</strong>, <strong>Artificial Intelligence</strong>, and <strong>Blockchain Security</strong> converge to shape the future of technology and society.</p>
