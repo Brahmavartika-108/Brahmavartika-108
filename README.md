@@ -29,6 +29,12 @@
   </picture>
 </div>
 
+## 🏆 Achievements🎯
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Utsa-Das&theme=dark&column=-1&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" alt="GitHub Trophies">
+</div>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Utsa-Das&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
