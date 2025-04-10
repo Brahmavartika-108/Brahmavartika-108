@@ -9,10 +9,26 @@
 I'm also exploring Quantum-AI frameworks for healthcare, national defense, and sustainable development—backed by research submitted to international symposiums.<br><br>📌 Featured Projects:<br><br>🧬 NeuroDetect: ML-powered brain tumor detection<br><br>🔐 QuantumBreak: Breaking RSA with Shor's Algorithm (Qiskit)<br><br>🤝 Decentralized Learning: Privacy-preserving AI with Flower<br><br>💡 Let’s redefine innovation together—one algorithm at a time.<br><br>🔗 Let’s collaborate. Let’s create. Let’s build the future.
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Utsa-Das&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Utsa-Das&theme=ambient_gradient&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Utsa-Das&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 🚀 GitHub Stats That Speak Loudly
+
+<p align="center">
+
+  <!-- GitHub Trophy -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Utsa-Das&theme=radical&no-frame=true&margin-w=10&row=2&column=4" alt="trophies" />
+
+  <!-- Contribution Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=Utsa-Das&theme=tokyonight&hide_border=true&background=FFFFFF00&border_radius=12&date_format=M%20j%5B%2C%20Y%5D" height="180" />
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Utsa-Das&show_icons=true&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&custom_title=🔥%20Coding%20Power" height="180" />
+
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Utsa-Das&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" height="180" />
+
+  <!-- GitHub Contribution Graph -->
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Utsa-Das&theme=github-compact&bg_color=00000000&color=37BCF6&line=58C5FB&point=2F81F7&area=true&hide_border=true" />
+
+</p>
 
 
 # 💻 Tech Stack& Tools:
