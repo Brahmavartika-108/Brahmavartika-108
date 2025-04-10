@@ -1,33 +1,40 @@
-<h2 align="center">💫 About Me</h2>
+<h1 align="center">💫 About Me</h1>
 
-<h3>🚀 Quantum | AI | Federated Learning | Research Explorer</h3>
-<h3>🎓 B.Tech CSE | Kalyani Government Engineering College (2027)</h3>
-<h3>🔬 Researcher | Visionary Technologist | Creative Innovator</h3>
+<h2>🚀 Quantum | AI | Federated Learning | Research Explorer</h2>
+<h2>🎓 B.Tech CSE | Kalyani Government Engineering College (2027)</h2>
+<h2>🔬 Researcher | Visionary Technologist | Creative Innovator</h2>
 
-<p>Welcome to my world of innovation where <b>Quantum Computing</b>, <b>Artificial Intelligence</b>, and <b>Blockchain Security</b> converge to shape the future of technology and society.</p>
+<p><strong>Welcome to my world of innovation</strong> where <strong>Quantum Computing</strong>, <strong>Artificial Intelligence</strong>, and <strong>Blockchain Security</strong> converge to shape the future of technology and society.</p>
 
-<p>🧠 From simulating <b>Quantum Supremacy</b> to designing <b>AI-powered medical diagnostics</b> and <b>Federated Learning systems</b>, my repositories reflect a deep passion for solving real-world challenges through emerging tech.</p>
+<p>🧠 From simulating <strong>Quantum Supremacy</strong> to designing <strong>AI-powered medical diagnostics</strong> and <strong>Federated Learning systems</strong>, my repositories reflect a deep passion for solving real-world challenges through emerging tech.</p>
 
 <br>
 
-<h2>🚀 My GitHub Contribution Chart</h2>
+<h1>🚀 My GitHub Contribution Chart</h1>
+
+<h2>📈 Contributions Since March 24, 2025</h2>
 
 [![Utsa's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Utsa-Das&theme=github-compact&area=true&hide_border=true&custom_title=My+Contribution+Graph&bg_color=020020&color=89f758&line=23c4c4&point=ffd700&area_color=0ca1a1)](https://github.com/Utsa-Das/github-readme-activity-graph)
 
-<h3>I'm also exploring <b>Quantum-AI frameworks</b> for healthcare, national defense, and sustainable development—backed by research submitted to international symposiums.</h3>
+<h2>🌍 Exploring Quantum-AI frameworks for:</h2>
+<ul>
+  <li><strong>Healthcare</strong></li>
+  <li><strong>National Defense</strong></li>
+  <li><strong>Sustainable Development</strong></li>
+</ul>
+<p>🔬 Backed by research submitted to international symposiums.</p>
 
-<h3>📌 Featured Projects:</h3>
+<h2>📌 Featured Projects</h2>
 
 <ul>
-  <li><b>🧬 NeuroDetect:</b> ML-powered brain tumor detection</li>
-  <li><b>🔐 QuantumBreak:</b> Breaking RSA with Shor's Algorithm (Qiskit)</li>
-  <li><b>🤝 Decentralized Learning:</b> Privacy-preserving AI with Flower</li>
+  <li><strong>🧬 NeuroDetect:</strong> ML-powered brain tumor detection</li>
+  <li><strong>🔐 QuantumBreak:</strong> Breaking RSA with Shor's Algorithm (Qiskit)</li>
+  <li><strong>🤝 Decentralized Learning:</strong> Privacy-preserving AI with Flower</li>
 </ul>
 
-<h3>💡 Let’s redefine innovation together—one algorithm at a time.</h3>
+<h2>💡 Let’s redefine innovation together—one algorithm at a time.</h2>
 
-<h3>🔗 Let’s collaborate. Let’s create. Let’s build the future.</h3>
-
+<h2>🔗 Let’s collaborate. Let’s create. Let’s build the future.</h2>
 
 
 
