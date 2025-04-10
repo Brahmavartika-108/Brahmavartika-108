@@ -19,8 +19,6 @@ I'm also exploring Quantum-AI frameworks for healthcare, national defense, and s
   <!-- GitHub Stats (Reliable Version) -->
   <img src="https://github-readme-stats.vercel.app/api?username=Utsa-Das&theme=tokyonight&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&custom_title=🔥%20Coding%20Power" height="200" alt="GitHub Stats"/>
 
-  <!-- Contribution Graph (Most Reliable) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Utsa-Das&theme=tokyo-night&bg_color=00000000&color=37BCF6&line=58C5FB&point=2F81F7&area=true&hide_border=false" width="100%" alt="GitHub Contribution Graph"/>
 
 </p>
 
