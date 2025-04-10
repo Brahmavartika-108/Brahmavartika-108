@@ -1,12 +1,32 @@
-# 💫 About Me:
-🚀 Quantum | AI | Federated Learning | Research Explorer<br>🎓 B.Tech CSE | Kalyani Government Engineering College (2027)<br>🔬 Researcher | Visionary Technologist | Creative Innovator<br><br>Welcome to my world of innovation where Quantum Computing, Artificial Intelligence, and Blockchain Security converge to shape the future of technology and society.<br><br>🧠 From simulating Quantum Supremacy to designing AI-powered medical diagnostics and Federated Learning systems, my repositories reflect a deep passion for solving real-world challenges through emerging tech. 
+<h2 align="center">💫 About Me</h2>
 
+<h3>🚀 Quantum | AI | Federated Learning | Research Explorer</h3>
+<h3>🎓 B.Tech CSE | Kalyani Government Engineering College (2027)</h3>
+<h3>🔬 Researcher | Visionary Technologist | Creative Innovator</h3>
 
-## 🚀 My GitHub Contribution Chart
+<p>Welcome to my world of innovation where <b>Quantum Computing</b>, <b>Artificial Intelligence</b>, and <b>Blockchain Security</b> converge to shape the future of technology and society.</p>
+
+<p>🧠 From simulating <b>Quantum Supremacy</b> to designing <b>AI-powered medical diagnostics</b> and <b>Federated Learning systems</b>, my repositories reflect a deep passion for solving real-world challenges through emerging tech.</p>
+
+<br>
+
+<h2>🚀 My GitHub Contribution Chart</h2>
 
 [![Utsa's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Utsa-Das&theme=github-compact&area=true&hide_border=true&custom_title=My+Contribution+Graph&bg_color=020020&color=89f758&line=23c4c4&point=ffd700&area_color=0ca1a1)](https://github.com/Utsa-Das/github-readme-activity-graph)
 
-I'm also exploring Quantum-AI frameworks for healthcare, national defense, and sustainable development—backed by research submitted to international symposiums.<br><br>📌 Featured Projects:<br><br>🧬 NeuroDetect: ML-powered brain tumor detection<br><br>🔐 QuantumBreak: Breaking RSA with Shor's Algorithm (Qiskit)<br><br>🤝 Decentralized Learning: Privacy-preserving AI with Flower<br><br>💡 Let’s redefine innovation together—one algorithm at a time.<br><br>🔗 Let’s collaborate. Let’s create. Let’s build the future.
+<h3>I'm also exploring <b>Quantum-AI frameworks</b> for healthcare, national defense, and sustainable development—backed by research submitted to international symposiums.</h3>
+
+<h3>📌 Featured Projects:</h3>
+
+<ul>
+  <li><b>🧬 NeuroDetect:</b> ML-powered brain tumor detection</li>
+  <li><b>🔐 QuantumBreak:</b> Breaking RSA with Shor's Algorithm (Qiskit)</li>
+  <li><b>🤝 Decentralized Learning:</b> Privacy-preserving AI with Flower</li>
+</ul>
+
+<h3>💡 Let’s redefine innovation together—one algorithm at a time.</h3>
+
+<h3>🔗 Let’s collaborate. Let’s create. Let’s build the future.</h3>
 
 
 
