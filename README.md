@@ -9,18 +9,18 @@
 I'm also exploring Quantum-AI frameworks for healthcare, national defense, and sustainable development—backed by research submitted to international symposiums.<br><br>📌 Featured Projects:<br><br>🧬 NeuroDetect: ML-powered brain tumor detection<br><br>🔐 QuantumBreak: Breaking RSA with Shor's Algorithm (Qiskit)<br><br>🤝 Decentralized Learning: Privacy-preserving AI with Flower<br><br>💡 Let’s redefine innovation together—one algorithm at a time.<br><br>🔗 Let’s collaborate. Let’s create. Let’s build the future.
 
 
-## 📊 GitHub Stats That Matter
+## 📊 GitHub Stats:
 
 <p align="center">
 
-  <!-- Contribution Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=Utsa-Das&theme=tokyonight&hide_border=false&background=00000000&border_radius=12&date_format=M%20j%5B%2C%20Y%5D" height="200" alt="GitHub Streak"/>
+  <!-- ✅ GitHub Streak Stats (Official & Working) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Utsa-Das&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" height="200" alt="GitHub Streak"/>
 
-  <!-- GitHub Stats (Reliable Version) -->
+  <!-- ✅ GitHub Overall Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Utsa-Das&theme=tokyonight&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&custom_title=🔥%20Coding%20Power" height="200" alt="GitHub Stats"/>
 
-
 </p>
+
 
 
 
