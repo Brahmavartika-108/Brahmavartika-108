@@ -17,17 +17,7 @@ I'm also exploring Quantum-AI frameworks for healthcare, national defense, and s
     <img src="https://github-readme-stats.vercel.app/api?username=Utsa-Das&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats" width="100%">
 
 
-  <picture>
-    <source srcset="https://github-readme-streak-stats-salesp07.vercel.app/?user=Utsa-Das&count_private=true&theme=react&hide_border=true&layout=stacked">
-    <source srcset="https://github-readme-streak-stats-salesp07.vercel.app/?user=Utsa-Das&count_private=true&theme=react&hide_border=true">
-    <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Utsa-Das&count_private=true&theme=react&hide_border=true" alt="Streak Stats" width="100%">
-  </picture>
-
-  <picture>
-    <source media="(max-width: 768px)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Utsa-Das&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false">
-    <source media="(min-width: 769px)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Utsa-Das&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Utsa-Das&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" alt="Most Used Languages" width="100%">
-  </picture>
+  
 </div>
 # 💻 Tech Stack& Tools:
 
