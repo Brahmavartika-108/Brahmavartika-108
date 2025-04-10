@@ -9,25 +9,32 @@
 I'm also exploring Quantum-AI frameworks for healthcare, national defense, and sustainable development—backed by research submitted to international symposiums.<br><br>📌 Featured Projects:<br><br>🧬 NeuroDetect: ML-powered brain tumor detection<br><br>🔐 QuantumBreak: Breaking RSA with Shor's Algorithm (Qiskit)<br><br>🤝 Decentralized Learning: Privacy-preserving AI with Flower<br><br>💡 Let’s redefine innovation together—one algorithm at a time.<br><br>🔗 Let’s collaborate. Let’s create. Let’s build the future.
 
 
-## 📊 GitHub Stats:
 
-<p align="center">
 
-  <!-- ✅ GitHub Streak Stats (Official & Working) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Utsa-Das&theme=tokyonight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" height="200" alt="GitHub Streak"/>
+## 🔥📊 GitHub Stats:
 
-  <!-- ✅ GitHub Overall Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Utsa-Das&theme=tokyonight&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&custom_title=🔥%20Coding%20Power" height="200" alt="GitHub Stats"/>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Utsa-Das&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats" width="100%">
 
-</p>
+
+  <picture>
+    <source srcset="https://github-readme-streak-stats-salesp07.vercel.app/?user=Utsa-Das&count_private=true&theme=react&hide_border=true&layout=stacked">
+    <source srcset="https://github-readme-streak-stats-salesp07.vercel.app/?user=Utsa-Das&count_private=true&theme=react&hide_border=true">
+    <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Utsa-Das&count_private=true&theme=react&hide_border=true" alt="Streak Stats" width="100%">
+  </picture>
+
+  <picture>
+    <source media="(max-width: 768px)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ManabBiswas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false">
+    <source media="(min-width: 769px)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=ManabBiswas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ManabBiswas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" alt="Most Used Languages" width="100%">
+  </picture>
+</div>
 
 
 
 
 
 # 💻 Tech Stack& Tools:
-
-## 🧰 Tech Stack & Tools
 
 <p align="center">
 
