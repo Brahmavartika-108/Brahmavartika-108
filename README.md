@@ -16,35 +16,49 @@
 ## 🧰 Tech Stack & Tools
 
 <p align="center">
-  <!-- Column 1: Programming Languages -->
-  <div style="display: inline-block; width: 30%; vertical-align: top; padding-right: 10px;">
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="40" style="margin: 8px;">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40" style="margin: 8px;">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="40" style="margin: 8px;">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="40" style="margin: 8px;">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="40" style="margin: 8px;">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="40" style="margin: 8px;">
-  </div>
 
-  <!-- Column 2: ML, DL, Federated -->
-  <div style="display: inline-block; width: 30%; vertical-align: top; padding-right: 10px;">
-    <img src="https://img.shields.io/badge/Machine%20Learning-00C853?style=for-the-badge&logo=scikit-learn&logoColor=white" height="40" style="margin: 8px;">
-    <img src="https://img.shields.io/badge/Federated%20Learning-7B1FA2?style=for-the-badge&logo=flower&logoColor=white" height="40" style="margin: 8px;">
-    <img src="https://img.shields.io/badge/Flower-A3C9A8?style=for-the-badge&logo=flower&logoColor=black" height="40" style="margin: 8px;">
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="40" style="margin: 8px;">
-    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="40" style="margin: 8px;">
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="40" style="margin: 8px;">
-  </div>
+<!-- Languages Section -->
+<div style="width: 100%; display: flex; justify-content: center; margin-bottom: 12px;">
+  <img src="https://img.shields.io/badge/Languages-FFFFFF?style=for-the-badge&logoColor=black" height="30">
+</div>
 
-  <!-- Column 3: Quantum & Tools -->
-  <div style="display: inline-block; width: 30%; vertical-align: top;">
-    <img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white" height="40" style="margin: 8px;">
-    <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" height="40" style="margin: 8px;">
-    <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" height="40" style="margin: 8px;">
-    <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="40" style="margin: 8px;">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="40" style="margin: 8px;">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="40" style="margin: 8px;">
-  </div>
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; margin-bottom: 24px;">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="40">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="40">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="40">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="40">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="40">
+</div>
+
+<!-- AI/ML Section -->
+<div style="width: 100%; display: flex; justify-content: center; margin-bottom: 12px;">
+  <img src="https://img.shields.io/badge/AI/ML & Data-FFFFFF?style=for-the-badge&logoColor=black" height="30">
+</div>
+
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; margin-bottom: 24px;">
+  <img src="https://img.shields.io/badge/Machine%20Learning-00C853?style=for-the-badge&logo=scikit-learn&logoColor=white" height="40">
+  <img src="https://img.shields.io/badge/Federated%20Learning-7B1FA2?style=for-the-badge&logo=flower&logoColor=white" height="40">
+  <img src="https://img.shields.io/badge/Flower-A3C9A8?style=for-the-badge&logo=flower&logoColor=black" height="40">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="40">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="40">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="40">
+</div>
+
+<!-- Quantum & Tools Section -->
+<div style="width: 100%; display: flex; justify-content: center; margin-bottom: 12px;">
+  <img src="https://img.shields.io/badge/Quantum & Tools-FFFFFF?style=for-the-badge&logoColor=black" height="30">
+</div>
+
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px;">
+  <img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white" height="40">
+  <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="40">
+  <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" height="40">
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" height="40">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="40">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="40">
+</div>
+
 </p>
 
 
