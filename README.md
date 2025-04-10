@@ -16,13 +16,7 @@
 
 [![Utsa's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Utsa-Das&theme=github-compact&area=true&hide_border=true&custom_title=My+Contribution+Graph&bg_color=020020&color=89f758&line=23c4c4&point=ffd700&area_color=0ca1a1)](https://github.com/Utsa-Das/github-readme-activity-graph)
 
-<h2>🌍 Exploring Quantum-AI frameworks for:</h2>
-<ul>
-  <li><strong>Healthcare</strong></li>
-  <li><strong>National Defense</strong></li>
-  <li><strong>Sustainable Development</strong></li>
-</ul>
-<p>🔬 Backed by research submitted to international symposiums.</p>
+
 
 <h2>📌 Featured Projects</h2>
 
