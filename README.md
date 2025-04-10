@@ -17,6 +17,12 @@ I'm also exploring Quantum-AI frameworks for healthcare, national defense, and s
     <img src="https://github-readme-stats.vercel.app/api?username=Utsa-Das&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats" width="100%">
 
 
+<img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Utsa-Das&count_private=true&theme=react&hide_border=true&layout=stacked" alt="Streak Stats" width="100%" />
+
+## 📊 Top Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Utsa-Das&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" alt="Most Used Languages" width="100%" />
+
   
 </div>
 # 💻 Tech Stack& Tools:
