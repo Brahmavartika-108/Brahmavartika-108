@@ -21,6 +21,14 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Utsa-Das&theme=ambient_gradient&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Utsa-Das&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+
+  <picture>
+    <source media="(max-width: 768px)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Utsa-Das&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false">
+    <source media="(min-width: 769px)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Utsa-Das&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Utsa-Das&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" alt="Most Used Languages" width="100%">
+  </picture>
+</div>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Utsa-Das&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
