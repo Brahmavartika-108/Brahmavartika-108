@@ -48,7 +48,7 @@
 <div>
   <img src="https://img.shields.io/badge/Machine%20Learning-00C853?style=for-the-badge&logo=scikit-learn&logoColor=white" height="40">
   <img src="https://img.shields.io/badge/Federated%20Learning-7B1FA2?style=for-the-badge&logo=flower&logoColor=white" height="40">
-  <img src="https://img.shields.io/badge/Flower-A3C9A8?style=for-the-badge&logo=flower&logoColor=black" height="40">
+<img src="https://img.shields.io/badge/Flower-A3C9A8?style=for-the-badge&logo=your_uploaded_logo_name&logoColor=black" height="40">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" height="40">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="40">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="40">
