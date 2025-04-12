@@ -35,7 +35,16 @@
 ## 📊 Top Languages
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brahmavartika-108&layout=compact&hide_title=false&langs_count=6&card_width=320&theme=tokyonight&hide_border=false" alt="Top Languages" width="100%" />
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-FAF232?style=for-the-badge&logo=jupyter&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-264de4?style=for-the-badge&logo=css3&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+
+## 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brahmavartika-108&layout=compact&theme=tokyonight&langs_count=6)
+
 
 
 
