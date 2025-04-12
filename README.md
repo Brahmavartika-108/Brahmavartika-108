@@ -42,7 +42,7 @@
 
 ## 💻 Tech Stack & Tools:
 
-<p align="center">
+<p align="left">
 
 <!-- AI/ML Section -->
 <div>
