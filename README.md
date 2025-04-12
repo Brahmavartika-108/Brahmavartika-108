@@ -71,22 +71,15 @@
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" height="40">
 </div>
 
-<!-- Quantum & Tools Section -->
+<!-- Quantum & Research Tools Section -->
 <div>
-  <img src="https://img.shields.io/badge/Quantum%20&%20Tools-FFFFFF?style=for-the-badge&logoColor=black" height="30">
+  <img src="https://img.shields.io/badge/Quantum%20&%20Research%20Tools-FFFFFF?style=for-the-badge&logoColor=black" height="30">
 </div>
 <div>
   <img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white" height="40">
   <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" height="40">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="40">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="40">
-</div>
-
-<!-- Research Tools Section -->
-<div>
-  <img src="https://img.shields.io/badge/Research%20Tools-FFFFFF?style=for-the-badge&logoColor=black" height="30">
-</div>
-<div>
   <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" height="40">
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" height="40">
   <img src="https://img.shields.io/badge/Grammarly-15C39A?style=for-the-badge&logo=grammarly&logoColor=white" height="40">
