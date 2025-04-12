@@ -13,7 +13,7 @@
 
 <h2>📈 Contributions Since March 24, 2025</h2>
 
-[![Utsa's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Utsa-Das&theme=github-compact&area=true&hide_border=true&custom_title=My+Contribution+Graph&bg_color=020020&color=89f758&line=23c4c4&point=ffd700&area_color=0ca1a1)](https://github.com/Utsa-Das/github-readme-activity-graph)
+[![Utsa's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Brahmavartika-108&theme=github-compact&area=true&hide_border=true&custom_title=My+Contribution+Graph&bg_color=020020&color=89f758&line=23c4c4&point=ffd700&area_color=0ca1a1)](https://github.com/Brahmavartika-108/github-readme-activity-graph)
 
 <h2>📌 Featured Projects</h2>
 
