@@ -106,13 +106,14 @@
   </a>
 </p>
 
-## 🏆 Achievements 🎯 
+## 🏆 Achievements 🎯
 
-<div align="center" style="display: flex; justify-content: center; gap: 30px; flex-wrap: wrap;">
-  <img src="https://github-profile-trophy.vercel.app/?username=Brahmavartika-108&theme=dark&title=Commits&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" height="300">
-  <img src="https://github-profile-trophy.vercel.app/?username=Brahmavartika-108&theme=dark&title=Repositories&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" height="300">
-  <img src="https://github-profile-trophy.vercel.app/?username=Brahmavartika-108&theme=dark&title=PullRequest&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" height="300">
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: nowrap;">
+  <img src="https://github-profile-trophy.vercel.app/?username=Brahmavartika-108&theme=dark&no-bg=true&title=Commits" height="280">
+  <img src="https://github-profile-trophy.vercel.app/?username=Brahmavartika-108&theme=dark&no-bg=true&title=Repositories" height="280">
+  <img src="https://github-profile-trophy.vercel.app/?username=Brahmavartika-108&theme=dark&no-bg=true&title=PullRequest" height="280">
 </div>
+
 
 
 
