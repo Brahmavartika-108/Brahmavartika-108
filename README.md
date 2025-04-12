@@ -34,7 +34,9 @@
 
 ## 📊 Top Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Brahmavartika-108&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=light&hide_border=false" alt="Most Used Languages" width="100%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brahmavartika-108&layout=compact&hide_title=false&langs_count=6&card_width=320&theme=tokyonight&hide_border=false" alt="Top Languages" width="100%" />
+
 
 
 ## 💻 Tech Stack & Tools:
