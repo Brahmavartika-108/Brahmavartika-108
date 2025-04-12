@@ -34,8 +34,8 @@
 
 ## 📊 Top Languages
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Brahmavartika-108&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" alt="Most Used Languages" width="100%" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Brahmavartika-108&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=light&hide_border=false" alt="Most Used Languages" width="100%" />
+
 
 ## 💻 Tech Stack & Tools:
 
@@ -122,7 +122,7 @@
 
 
 
-### ✍️ Random Dev Quote
+### ✍️ Inspirations
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
