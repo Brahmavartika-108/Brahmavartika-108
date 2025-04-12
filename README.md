@@ -109,8 +109,11 @@
 ## 🏆 Achievements 🎯 
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Brahmavartika-108&theme=dark&title=Commits,Repositories,PullRequest&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000&column=3&margin-w=40" alt="GitHub Trophies" height="200">
+  <img src="https://github-profile-trophy.vercel.app/?username=Brahmavartika-108&theme=dark&title=Commits&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" height="200">
+  <img src="https://github-profile-trophy.vercel.app/?username=Brahmavartika-108&theme=dark&title=Repositories&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" height="200">
+  <img src="https://github-profile-trophy.vercel.app/?username=Brahmavartika-108&theme=dark&title=PullRequest&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" height="200">
 </div>
+
 
 
 
