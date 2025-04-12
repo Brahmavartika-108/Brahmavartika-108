@@ -106,11 +106,12 @@
   </a>
 </p>
 
-## 🏆 Achievements🎯
+## 🏆 Achievements 🎯
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Brahmavartika-108&theme=dark&column=-1&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=Brahmavartika-108&theme=dark&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000&column=1&margin-w=40" alt="GitHub Trophies" height="500">
 </div>
+
 
 ### ✍️ Random Dev Quote
 
