@@ -29,13 +29,13 @@
 ## 🔥📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Utsa-Das&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats" width="100%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Brahmavartika-108&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=chartreuse-dark" alt="GitHub Stats" width="100%">
   
-  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Utsa-Das&count_private=true&theme=react&hide_border=true&layout=stacked" alt="Streak Stats" width="100%" />
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Brahmavartika-108&count_private=true&theme=react&hide_border=true&layout=stacked" alt="Streak Stats" width="100%" />
 
 ## 📊 Top Languages
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Utsa-Das&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" alt="Most Used Languages" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Brahmavartika-108&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" alt="Most Used Languages" width="100%" />
 </div>
 
 ## 💻 Tech Stack & Tools:
@@ -89,7 +89,7 @@
   <a href="https://www.facebook.com/share/1BPKW7eb94/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" height="40">
   </a>
-  <a href="https://www.linkedin.com/in/utsa-das-929263291/" target="_blank">
+  <a href="https://www.linkedin.com/in/Brahmavartika-108-929263291/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white" height="40">
   </a>
   <a href="https://youtube.com/@utsa369?si=0gx1QMCMILdepDpN" target="_blank">
@@ -103,7 +103,7 @@
 ## 🏆 Achievements🎯
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Utsa-Das&theme=dark&column=-1&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=Brahmavartika-108&theme=dark&column=-1&title_color=C2FFC7&icon_color=CB9DF0&text_color=ffffff&bg_color=000000" alt="GitHub Trophies">
 </div>
 
 ### ✍️ Random Dev Quote
@@ -112,10 +112,10 @@
 
 ### 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=Utsa-Das&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Brahmavartika-108&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Utsa-Das&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Brahmavartika-108&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
