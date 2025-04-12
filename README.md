@@ -89,7 +89,7 @@
   <a href="https://www.facebook.com/share/1BPKW7eb94/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" height="40">
   </a>
-  <a href="https://www.linkedin.com/in/Brahmavartika-108-929263291/" target="_blank">
+  <a href="https://www.linkedin.com/in/Utsa-Das-929263291/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white" height="40">
   </a>
   <a href="https://youtube.com/@utsa369?si=0gx1QMCMILdepDpN" target="_blank">
